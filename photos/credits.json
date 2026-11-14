@@ -1,0 +1,188 @@
+{
+ "eurasia": {
+  "f": "eurasia.jpg",
+  "author": "Photo: chil, on Camptocamp.org Derivative work:Zacharie Grossen",
+  "lic": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg"
+ },
+ "africa": {
+  "f": "africa.jpg",
+  "author": "Diego Delso",
+  "lic": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg"
+ },
+ "namerica": {
+  "f": "namerica.jpg",
+  "author": "Lennart Sikkema",
+  "lic": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg"
+ },
+ "samerica": {
+  "f": "samerica.jpg",
+  "author": "Diego Delso",
+  "lic": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_Andes-Chile.jpg"
+ },
+ "australia": {
+  "f": "australia.jpg",
+  "author": "Ek2030372672",
+  "lic": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:ULURU.jpg"
+ },
+ "antarctica": {
+  "f": "antarctica.jpg",
+  "author": "Ian Duffy from UK",
+  "lic": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg"
+ },
+ "pacific": {
+  "f": "pacific.jpg",
+  "author": "NASA Johnson Space Center",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bora_Bora_ISS006.jpg"
+ },
+ "atlantic": {
+  "f": "atlantic.jpg",
+  "author": "Bjørn Christian Tørrissen",
+  "lic": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Cliffs-Of-Moher-OBriens-From-South.JPG"
+ },
+ "indian": {
+  "f": "indian.jpg",
+  "author": "dronepicr",
+  "lic": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Luftbild_Insel_La_Digue_Seychellen.DNG_(39617026111).jpg"
+ },
+ "southern": {
+  "f": "southern.jpg",
+  "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+  "lic": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Diomedea_exulans_-_SE_Tasmania.jpg"
+ },
+ "arctic": {
+  "f": "arctic.jpg",
+  "author": "Alan Wilson",
+  "lic": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_(cropped).jpg"
+ },
+ "caspian": {
+  "f": "caspian.jpg",
+  "author": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Caspian_Sea_from_orbit.jpg"
+ },
+ "mediterranean": {
+  "f": "mediterranean.jpg",
+  "author": "of the modification : Eric Gaba (Sting)",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg"
+ },
+ "black": {
+  "f": "black.jpg",
+  "author": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Black_Sea_Nasa_May_25_2004.jpg"
+ },
+ "baltic": {
+  "f": "baltic.jpg",
+  "author": "Hugo.arg (talk)",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Mirties_sl%C4%97nis_nuo_Parnid%C5%BEio_kopos.JPG"
+ },
+ "kazakhstan": {
+  "f": "kazakhstan.jpg",
+  "author": "Bgag",
+  "lic": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_03.jpg"
+ },
+ "khantengri": {
+  "f": "khantengri.jpg",
+  "author": "Frederic Heymes",
+  "lic": "CC BY-SA 2.0 fr",
+  "page": "https://commons.wikimedia.org/wiki/File:Vue_globale_du_versant_N_du_khan_Tengri.jpg"
+ },
+ "balkhash": {
+  "f": "balkhash.jpg",
+  "author": "NASA",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:STS039-085-00E_Lake_Balkhash,_Kazakhstan_April_1991.jpg"
+ },
+ "everest": {
+  "f": "everest.jpg",
+  "author": "Rdevany",
+  "lic": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg"
+ },
+ "mariana": {
+  "f": "mariana.jpg",
+  "author": "Unknown authorUnknown author",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bathyscaphe_Trieste.jpg"
+ },
+ "sahara": {
+  "f": "sahara.jpg",
+  "author": "Project Apollo Archive",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sahara_real_color.jpg"
+ },
+ "nile": {
+  "f": "nile.jpg",
+  "author": "Fiktube",
+  "lic": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Beautiful_nature_along_Nile_River_01.jpg"
+ },
+ "amazon": {
+  "f": "amazon.jpg",
+  "author": "European Space Agency",
+  "lic": "CC BY-SA 3.0 igo",
+  "page": "https://commons.wikimedia.org/wiki/File:Amazon_River_ESA387332.jpg"
+ },
+ "angel": {
+  "f": "angel.jpg",
+  "author": "Rich Childs",
+  "lic": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:SaltoAngel1.jpg"
+ },
+ "kilimanjaro": {
+  "f": "kilimanjaro.jpg",
+  "author": "Sergey Pesterev",
+  "lic": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg"
+ },
+ "baikal": {
+  "f": "baikal.jpg",
+  "author": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Baikal.A2001296.0420.250m-NASA.jpg"
+ },
+ "greatlakes": {
+  "f": "greatlakes.jpg",
+  "author": "NASA",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_Lakes,_No_Clouds_(4968915002)_Brighter.jpg"
+ },
+ "reef": {
+  "f": "reef.jpg",
+  "author": "NASA/Kjell Lindgren",
+  "lic": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:ISS-45_StoryOfWater,_Great_Barrier_Reef,_Australia.jpg"
+ },
+ "greenland": {
+  "f": "greenland.jpg",
+  "author": "Quintin Soloviev",
+  "lic": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ilulissat_Icefjord.jpg"
+ },
+ "madagascar": {
+  "f": "madagascar.jpg",
+  "author": "Pat Hooper from Chicago, IL, USA",
+  "lic": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Adansonia_grandidieri_Pat_Hooper.jpg"
+ },
+ "newguinea": {
+  "f": "newguinea.png",
+  "author": "Jonathan Chase",
+  "lic": "CC BY 2.5",
+  "page": "https://commons.wikimedia.org/wiki/File:Raja_Ampat_Islands_-_journal.pbio.1001457.g001.png"
+ }
+}
